@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[clementgraphics]]></title>
+        <description><![CDATA[clementgraphics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 09:42:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is the portfolio site of Jeanette Clement. Based in London with 15 years of experience, I create web / print designs and digital systems to facilitate social change.</p>]]></description>
+            <link>undefined3e954199-a118-459f-9ceb-e1bb4296c9a1/index.html</link>
+            <guid isPermaLink="false">3e954199-a118-459f-9ceb-e1bb4296c9a1</guid>
+            <pubDate>Thu, 18 Feb 2016 09:42:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
